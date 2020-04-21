@@ -1,3 +1,7 @@
+# Grupo 05
+# Integrantes:
+# DANIEL HERNANDEZ COD:67632
+# LUIS FERNANDO GARCIA COD:
 # lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
 ## Introducción
 
