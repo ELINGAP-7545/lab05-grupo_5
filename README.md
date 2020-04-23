@@ -31,7 +31,7 @@ EL diagrama de estructura de cada uno de los bloques operacionales de nuestra un
 
 ## División
 ## Diagrama estructural de la división
-![division](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/diagrama%20estructural%20divi.png)
+![division](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/DIV.png)
         
 
 la unidad cuenta con:
