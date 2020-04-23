@@ -7,7 +7,7 @@
 ## descipción 
 La unidad aritmética, es tal que cuenta con componentes para realizar operaciones aritméticas. cada operación aritmética es ejecutada acuerdo al código de la operación. 
 
-Como ejercicio académico propuestó, se construyó una unidad ritmetica con 4 operaciones: suma, resta, multiplicación y división, el resultados se visualiza en dos display de siete segmentos. El flujo de datos y la selección de la operación se realiza acorde a la señal opcode, y segun la siguiente tabla:
+Como ejercicio académico propuestó, se construyó una unidad ritmetica con 4 operaciones: suma, resta, multiplicación y división, el resultados se visualiza en dos display de siete segmentos. El flujo de datos y la selección de la operación se realiza acorde a la señal opcode, y segun la siguiente descripcion:
  
 
 Opcode: 00,  operacion suma de enteros positivos. Opcode: 01,  operacion resta de enteros positivos. Opcode: 10,  operacion multiplicacion de enteros positivos. Opcode: 11,  operacion division de enteros positivos.
