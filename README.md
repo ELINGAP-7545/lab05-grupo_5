@@ -16,6 +16,12 @@ opcode | operación  enteros positivos
 10|  multiplicación
 11| división 
 
+opcode   operacion enteros positivos
+00        suma
+01        resta
+10        multiplicacion
+11        division
+
 Por lo tanto, la unidad cuenta con:
 
 1. Los dos puertos de entrada A y B. cada uno de  3 bits.
