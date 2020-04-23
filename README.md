@@ -8,12 +8,13 @@
 La unidad aritmética, es tal que cuenta con componentes para realizar operaciones aritméticas. cada operación aritmética es ejecutada acuerdo al código de la operación. 
 
 Opcode:Las posibles operaciones arimeticas que se pueden ejecutar en la ALU.
+
 ![Tabla operaciones](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/TABLA.png)
         
 
 ## Suma 
 ## Diagrama estructural de la suma:
-![Suma]()
+![Suma](https://raw.githubusercontent.com/ELINGAP-7545/lab05-grupo_5/master/IMAGENES/ESTRUCTURAL%20SUM4.bmp)
         
 Por lo tanto, la unidad cuenta con:
 
