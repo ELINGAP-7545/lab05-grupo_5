@@ -21,24 +21,38 @@ EL diagrama de estructura de cada uno de los bloques operacionales de nuestra un
 ## Simulacion Fpga:
 ![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/suma.png)
 
+## Simulacion QUARTUS:
+![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20suma.png)
+
 ## Resta
 ## Diagrama estructural de la resta:
 ![resta](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/REST.png)
+
 ## Simulacion Fpga:
 ![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/restapositiva.png)
 
+## Simulacion QUARTUS:
+![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20resta.png)
+
+
 En la siguiente imagen se muestra como el producto de la resta si llega hacer negativo el resultado se muestra en el display
 mientras se enciende un led para resaltar que este producto es negativo:
+
 ## Resta negativa:
 ![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/resta.png)
+
+## Simulacion QUARTUS:
+![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20resta.png)
 
 ## Multiplicacion
 ## Diagrama estructural de la multiplicacion:
 ![multiplicacion](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/estructural%20multiplicador.jpg)
 
 ## Simulacion Fpga:
+![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/multiplicacion.png)
 
-![multiplicacion](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/multiplicacion.png)
+## Simulacion QUARTUS:
+![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20multiplicacion.png)
 
 ## División
 ## Diagrama estructural de la división
@@ -46,6 +60,9 @@ mientras se enciende un led para resaltar que este producto es negativo:
 
 ## Simulacion Fpga:
 ![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/division.png)
+        
+## Simulacion QUARTUS:
+![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20division.png)        
         
 la unidad cuenta con:
 
