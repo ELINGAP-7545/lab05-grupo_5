@@ -26,7 +26,7 @@ EL diagrama de estructura de cada uno de los bloques operacionales de nuestra un
 
 ## Resta
 ## Diagrama estructural de la resta:
-![resta](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/REST.png)
+[resta](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/REST.png)
 
 ## Simulacion Fpga:
 ![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/restapositiva.png)
