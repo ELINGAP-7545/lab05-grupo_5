@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   22:10:33 09/15/2019
-// Design Name:   alu
-// Module Name:   C:/Users/UECCI/Desktop/ejer01/ALU/alu/testbench.v
-// Project Name:  alu
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: alu
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 
 module testbench;
 
@@ -33,7 +12,8 @@ module testbench;
 
 	// Outputs
 	wire [0:6] sseg;
-	wire [3:0] an;
+	wire [1:0] an;
+	wire signoresta;
 
 	// Instantiate the Unit Under Test (UUT)
 	alu uut (
@@ -43,7 +23,8 @@ module testbench;
 		.sseg(sseg), 
 		.an(an), 
 		.clk(clk), 
-		.rst(rst)
+		.rst(rst),
+		.signoresta(signoresta)
 	);
 
 
@@ -52,8 +33,9 @@ module testbench;
 		opcode = 0;
 		clk = 0;
 		rst = 1;
-		portA=5;
-		portB=3;
+		portA=7;
+		portB=2;
+		
 		
 		// Wait 100 ns for global reset to finish
 		#10;
@@ -61,13 +43,27 @@ module testbench;
 		rst = 0;
 		// Add stimulus here
 		
-		#50 opcode = 0;
+		#660000;
 		
-		#50 opcode = 1;
+		//#50 opcode = 0;
 		
-		#50 opcode = 2;
+		opcode = 0;  //suma
 		
-		#50 opcode = 3;
+		#500000;
+		
+		opcode = 1;  //resta
+		
+		#900000;
+		
+	   opcode = 2;  //multiplicacion
+		
+		#900000;
+		
+		opcode = 3;  //division
+		
+		#500000;
+		
+		//	#50;
 		
 	end
    

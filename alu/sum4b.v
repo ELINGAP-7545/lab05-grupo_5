@@ -13,6 +13,6 @@ module sum4b(init, xi, yi,co,sal);
   assign sal= st[3:0];
   assign Cout = st[4];
 
-  assign st  = 	xi+yi;
+  assign st = xi+yi;
 
 endmodule

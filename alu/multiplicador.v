@@ -1,29 +1,15 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    18:40:46 09/13/2019 
-// Design Name: 
-// Module Name:    multiplicador 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
-module multiplicador( input [2:0] MR, 
-							 input [2:0] MD, 
-							input init, 
-							 input clk,  
-							 output reg [5:0] pp, 
-							 output reg done
+
+
+
+module multiplicador( 
+
+input [2:0] MR, 
+input [2:0] MD, 
+input init, 
+input clk,  
+output reg [5:0] pp, 
+output reg done
     );
 
 reg sh;
