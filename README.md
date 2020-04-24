@@ -34,10 +34,11 @@ mientras se enciende un led para resaltar que este producto es negativo:
 
 ## Multiplicacion
 ## Diagrama estructural de la multiplicacion:
-![multiplicacion](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/estructural%20multiplicador.jpg).
+![multiplicacion](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/estructural%20multiplicador.jpg)
 
 ## Simulacion Fpga:
-![imagen](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/multiplicacion.png)
+
+![multiplicacion](https://github.com/ELINGAP-7545/lab05-grupo_5/blob/master/IMAGENES/simulacion%20fpga/multiplicacion.png)
 
 ## División
 ## Diagrama estructural de la división
